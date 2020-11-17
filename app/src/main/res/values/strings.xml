@@ -7,4 +7,6 @@
     <string name="km_por_litro">Kilômetros por litro</string>
     <string name="seu_gasto_total_ser_de">SEU GASTO TOTAL SERÁ DE</string>
     <string name="calcular">Calcular</string>
+    <string name="notificacao">É preciso preencher todos os campos</string>
+    <string name="valoresValidos">Informe valores válidos</string>
 </resources>
